@@ -5,7 +5,8 @@
         "answer1": "Heihei", 
         "answer2": "Hoohoo",       
         "answer3": "Heehee",       
-        "answer4": "Haahaa"       
+        "answer4": "Haahaa",
+        "correctAnswer": "A"       
     },
     {
         "id": "2",
@@ -13,7 +14,8 @@
         "answer1": "Moana's pet pig",
         "answer2": "Moana's dad",
         "answer3": "Moana's 2nd cousin",
-        "answer4": "The goddess of the sea" 
+        "answer4": "The goddess of the sea",
+        "correctAnswer": "D"
     },
     {
         "id": "3",
@@ -21,7 +23,8 @@
         "answer1": "Nala",
         "answer2": "Granala",
         "answer3": "Tala",  
-        "answer4": "Sala"
+        "answer4": "Sala",
+        "correctAnswer": "C"
     },
     {
         "id": "4",
@@ -29,7 +32,8 @@
         "answer1": "Ships", 
         "answer2": "A huge banquet",
         "answer3": "More pigs",
-        "answer4": "A train set"
+        "answer4": "A train set",
+        "correctAnswer": "A"
     },
     {
         "id": "5",
@@ -37,7 +41,8 @@
         "answer1": "Asia",
         "answer2": "Europe",
         "answer3": "Polynesia", 
-        "answer4": "The Arctic"
+        "answer4": "The Arctic",
+        "correctAnswer": "C"
     },
     {
         "id": "6",
@@ -45,7 +50,8 @@
         "answer1": "A god",
         "answer2": "A demi-god",
         "answer3": "A king",
-        "answer4": "A sea-spirit"
+        "answer4": "A sea-spirit",
+        "correctAnswer": "B"
     },
     {
         "id": "7",
@@ -53,7 +59,8 @@
         "answer1": "Metal",
         "answer2": "Wood",
         "answer3": "Coconut shells",  
-        "answer4": "Chocolate bar wrappers"
+        "answer4": "Chocolate bar wrappers",
+        "correctAnswer": "C"
     },
     {
         "id": "8",
@@ -61,7 +68,8 @@
         "answer1": "Curly hair",
         "answer2": "Ocean", 
         "answer3": "Girl",
-        "answer4": "Hawaii"
+        "answer4": "Hawaii",
+        "correctAnswer": "B"
     },
     {
         "id": "9",
@@ -69,7 +77,8 @@
         "answer1": "They dance around",   
         "answer2": "They glow in the dark",
         "answer3": "They peel off and stick on again",
-        "answer4": "They disappear in the daylight"
+        "answer4": "They disappear in the daylight",
+        "correctAnswer": "A"
     },
     {
         "id": "10",
@@ -77,7 +86,8 @@
         "answer1": "A carpenter on the island",
         "answer2": "It was bought at a department store",
         "answer3": "Polynesian Gods", 
-        "answer4": "No one knows, not even Maui"
+        "answer4": "No one knows, not even Maui",
+        "correctAnswer": "C"
     }
 ]
 
