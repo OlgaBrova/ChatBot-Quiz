@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "question": "1. What's the name of the rooster in Moana?",
+        "question": "What's the name of the rooster in Moana?",
         "answer1": "Heihei", 
         "answer2": "Hoohoo",       
         "answer3": "Heehee",       
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "question": "2. Who is Te Fiti?",
+        "question": "Who is Te Fiti?",
         "answer1": "Moana's pet pig",
         "answer2": "Moana's dad",
         "answer3": "Moana's 2nd cousin",
@@ -17,7 +17,7 @@
     },
     {
         "id": "3",
-        "question": "3. What is the name of Moana's grandmother?",
+        "question": "What is the name of Moana's grandmother?",
         "answer1": "Nala",
         "answer2": "Granala",
         "answer3": "Tala",  
@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "question": "4. What does Moana's grandmother show her in the cave?",
+        "question": "What does Moana's grandmother show her in the cave?",
         "answer1": "Ships", 
         "answer2": "A huge banquet",
         "answer3": "More pigs",
@@ -33,7 +33,7 @@
     },
     {
         "id": "5",
-        "question": "5. What part of the world is Motonui based on?",
+        "question": "What part of the world is Motonui based on?",
         "answer1": "Asia",
         "answer2": "Europe",
         "answer3": "Polynesia", 
@@ -41,7 +41,7 @@
     },
     {
         "id": "6",
-        "question": "6. What is Maui?",
+        "question": "What is Maui?",
         "answer1": "A god",
         "answer2": "A demi-god",
         "answer3": "A king",
@@ -49,7 +49,7 @@
     },
     {
         "id": "7",
-        "question": "7. What do the Kakamora use as armour?",
+        "question": "What do the Kakamora use as armour?",
         "answer1": "Metal",
         "answer2": "Wood",
         "answer3": "Coconut shells",  
@@ -57,7 +57,7 @@
     },
     {
         "id": "8",
-        "question": "8. What does the word “moana” mean in Hawaiian?",
+        "question": "What does the word “moana” mean in Hawaiian?",
         "answer1": "Curly hair",
         "answer2": "Ocean", 
         "answer3": "Girl",
@@ -65,7 +65,7 @@
     },
     {
         "id": "9",
-        "question": "9. What's special about Maui's tattoos?",
+        "question": "What's special about Maui's tattoos?",
         "answer1": "They dance around",   
         "answer2": "They glow in the dark",
         "answer3": "They peel off and stick on again",
@@ -73,7 +73,7 @@
     },
     {
         "id": "10",
-        "question": "10. Who made Maui's fish hook?",
+        "question": "Who made Maui's fish hook?",
         "answer1": "A carpenter on the island",
         "answer2": "It was bought at a department store",
         "answer3": "Polynesian Gods", 
