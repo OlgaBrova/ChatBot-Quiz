@@ -1,0 +1,113 @@
+{
+    "webDevelopment": [
+        {
+            "id": "1",
+            "question": "What does HTML stand for?",
+            "answer1": "Hyperlinks and Text Markup Language", 
+            "answer2": "Hypertext Markup Language",       
+            "answer3": "Home Tool Markup Language",       
+            "answer4": "Hyper Text Modul Language",
+            "correctAnswer": "B"       
+        },
+        {
+            "id": "2",
+            "question": "Choose the correct HTML tag for the largest heading:",
+            "answer1": "<heading>",
+            "answer2": "<h6>",
+            "answer3": "<head>",
+            "answer4": "<h1>",
+            "correctAnswer": "D"
+        },
+        {
+            "id": "3",
+            "question": "What is the correct HTML tag for inserting a line break?",
+            "answer1": "<br>",
+            "answer2": "<lb>",
+            "answer3": "<break>",  
+            "answer4": "<hr>",
+            "correctAnswer": "A"
+        },
+        {
+            "id": "4",
+            "question": "What should be the first tag in any HTML document?",
+            "answer1": "<html>", 
+            "answer2": "<document>",
+            "answer3": "<title>",
+            "answer4": "<head>",
+            "correctAnswer": "A"
+        },
+        {
+            "id": "5",
+            "question": "What is the correct HTML for creating a hyperlink?",
+            "answer1": "<a url='http://www.w3schools.com'>W3Schools.com</a>",
+            "answer2": "<a name='http://www.w3schools.com'>W3Schools.com</a>",
+            "answer3": "<a href='http://www.w3schools.com'>W3Schools</a>", 
+            "answer4": "<a>http://www.w3schools.com</a>",
+            "correctAnswer": "C"
+        },
+        {
+            "id": "6",
+            "question": "What is the correct HTML for inserting an image?",
+            "answer1": "<img alt='MyImage'>image.gif</img>",
+            "answer2": "<img src='image.gif' alt='MyImage'>",
+            "answer3": "<image src='image.gif' alt='MyImage'>",
+            "answer4": "<img href='image.gif' alt='MyImage'>",
+            "correctAnswer": "B"
+        },
+        {
+            "id": "7",
+            "question": "How can you make a numbered list?",
+            "answer1": "<ol>",
+            "answer2": "<ul>",
+            "answer3": "<dl>",  
+            "answer4": "<list>",
+            "correctAnswer": "A"
+        },
+        {
+            "id": "8",
+            "question": "What is the correct HTML for making a checkbox?",
+            "answer1": "<checkbox>",
+            "answer2": "<input type='checkbox'>", 
+            "answer3": "<check>",
+            "answer4": "<input type='check'>",
+            "correctAnswer": "B"
+        },
+        {
+            "id": "9",
+            "question": "What does CSS stand for?",
+            "answer1": "Creative Style Sheets",   
+            "answer2": "Cascading Style Sheets",
+            "answer3": "Computer Style Sheets",
+            "answer4": "Colorful Style Sheets",
+            "correctAnswer": "B"
+        },
+        {
+            "id": "10",
+            "question": "What is the correct HTML for referring to an external style sheet?",
+            "answer1": "<stylesheet>mystyle.css</stylesheet>",
+            "answer2": "<style src='mystyle.css'>",
+            "answer3": "<link rel='stylesheet' type='text/css' href='mystyle.css'>", 
+            "answer4": "None of the above",
+            "correctAnswer": "C"
+        },
+        {
+            "id": "11",
+            "question": "Which is the correct CSS syntax?",
+            "answer1": "body {color: black;}",
+            "answer2": "{body:color=black;}",
+            "answer3": "body:color=black;", 
+            "answer4": "{body;color:black;}",
+            "correctAnswer": "A"
+        },
+        {
+            "id": "12",
+            "question": "Which property is used to change the background color?",
+            "answer1": "color",
+            "answer2": "background-color",
+            "answer3": "bgcolor", 
+            "answer4": "None of the above",
+            "correctAnswer": "B"
+        }
+    ]
+}
+
