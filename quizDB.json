@@ -39,19 +39,19 @@
         {
             "id": "5",
             "question": "What is the correct HTML for creating a hyperlink?",
-            "answer1": "<a url=\"http://www.w3schools.com\">W3Schools.com</a>",
-            "answer2": "<a name=\"http://www.w3schools.com\">W3Schools.com</a>",
-            "answer3": "<a href=\"http://www.w3schools.com\">W3Schools</a>", 
+            "answer1": "<a url='http://www.w3schools.com'>W3Schools.com</a>",
+            "answer2": "<a name='http://www.w3schools.com'>W3Schools.com</a>",
+            "answer3": "<a href='http://www.w3schools.com'>W3Schools</a>", 
             "answer4": "<a>http://www.w3schools.com</a>",
             "correctAnswer": "C"
         },
         {
             "id": "6",
             "question": "What is the correct HTML for inserting an image?",
-            "answer1": "<img alt=\"MyImage\">image.gif</img>",
-            "answer2": "<img src=\"image.gif\" alt=\"MyImage\">",
-            "answer3": "<image src=\"image.gif\" alt=\"MyImage\">",
-            "answer4": "<img href=\"image.gif\" alt=\"MyImage\">",
+            "answer1": "<img alt='MyImage'>image.gif</img>",
+            "answer2": "<img src='image.gif' alt='MyImage'>",
+            "answer3": "<image src='image.gif' alt='MyImage'>",
+            "answer4": "<img href='image.gif' alt='MyImage'>",
             "correctAnswer": "B"
         },
         {
@@ -85,7 +85,7 @@
             "id": "10",
             "question": "What is the correct HTML for referring to an external style sheet?",
             "answer1": "<stylesheet>mystyle.css</stylesheet>",
-            "answer2": "style src='mystyle.css'>",
+            "answer2": "<style src='mystyle.css'>",
             "answer3": "<link rel='stylesheet' type='text/css' href='mystyle.css'>", 
             "answer4": "None of the above",
             "correctAnswer": "C"
