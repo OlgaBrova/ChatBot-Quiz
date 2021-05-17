@@ -12,9 +12,9 @@
         {
             "id": "2",
             "question": "Choose the correct HTML tag for the largest heading:",
-            "answer1": "\<heading>",
-            "answer2":"\<h6>",
-            "answer3": "\<head>",
+            "answer1": "\ <heading></heading>",
+            "answer2":"\ <h6>",
+            "answer3": "\ <head>",
             "answer4": "\<h1>",
             "correctAnswer": "D"
         },
