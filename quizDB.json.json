@@ -12,8 +12,8 @@
         {
             "id": "2",
             "question": "Choose the correct HTML tag for the largest heading:",
-            "answer1": ""<heading>"",
-            "answer2": ""<h6>"",
+            "answer1": "<heading>",
+            "answer2": "<h6>",
             "answer3": "<head>",
             "answer4": "<h1><\/h1>",
             "correctAnswer": "D"
@@ -39,7 +39,7 @@
         {
             "id": "5",
             "question": "What is the correct HTML for creating a hyperlink?",
-            "answer1": "<a url='http://www.w3schools.com'>W3Schools.com</a>",
+            "answer1": "<a url=\"http://www.w3schools.com\">W3Schools.com</a>",
             "answer2": "<a name='http://www.w3schools.com'>W3Schools.com</a>",
             "answer3": "<a href='http://www.w3schools.com'>W3Schools</a>", 
             "answer4": "<a>http://www.w3schools.com</a>",
