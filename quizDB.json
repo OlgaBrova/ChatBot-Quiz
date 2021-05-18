@@ -21,7 +21,7 @@
         {
             "id": "3",
             "question": "What is the correct HTML tag for inserting a line break?",
-            "answer1": "<br>",
+            "answer1": "<br>\n",
             "answer2": "<lb>",
             "answer3": "<break>",  
             "answer4": "<hr>",
