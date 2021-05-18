@@ -48,10 +48,10 @@
         {
             "id": "6",
             "question": "What is the correct HTML for inserting an image?",
-            "answer1": "\"<img alt=\"MyImage\">image.gif<\/img>\"",
-            "answer2": "\"<img src=\"image.gif\" alt=\"MyImage\" \/>\"",
-            "answer3": "\"<image src=\"image.gif\" alt=\"MyImage\" \/>\"",
-            "answer4": "\"<img href=\"image.gif\" alt=\"MyImage\" \/>\"",
+            "answer1": ""<img alt=\"MyImage\">image.gif<\/img>\"",
+            "answer2": ""<img src=\"image.gif\" alt=\"MyImage\" \/>\"",
+            "answer3": ""<image src=\"image.gif\" alt=\"MyImage\" \/>\"",
+            "answer4": ""<img href=\"image.gif\" alt=\"MyImage\" \/>\"",
             "correctAnswer": "B"
         },
         {
