@@ -12,7 +12,7 @@
         {
             "id": "2",
             "question": "Choose the correct HTML tag for the largest heading:",
-            "answer1": ""<p>Lorem ipsum dolor sit amet <\/p>\n"",
+            "answer1": "<p>Lorem ipsum dolor sit amet <\/p>\n",
             "answer2": "<h6>Heading</h6>\n",
             "answer3": "<head>H</head>\n",
             "answer4": "<h1 style=\"font-size:60px;\">Heading 1</h1>\n",
