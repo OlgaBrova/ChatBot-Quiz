@@ -12,10 +12,10 @@
         {
             "id": "2",
             "question": "Choose the correct HTML tag for the largest heading:",
-            "answer1": "<heading><heading>",
-            "answer2":"<h6>",
-            "answer3": "<head>",
-            "answer4": "<h1style=\"font-size:60px;\">Heading 1</h1>",
+            "answer1": "\n<heading>",
+            "answer2":"\n<h6>",
+            "answer3": "\n<head>",
+            "answer4": "\n<h1style=\"font-size:60px;\">Heading 1</h1>",
             "correctAnswer": "D"
         },
         {
@@ -48,10 +48,10 @@
         {
             "id": "6",
             "question": "What is the correct HTML for inserting an image?",
-            "answer1": ""<img alt=\"MyImage\">image.gif<\/img>\"",
-            "answer2": ""<img src=\"image.gif\" alt=\"MyImage\" \/>\"",
-            "answer3": ""<image src=\"image.gif\" alt=\"MyImage\" \/>\"",
-            "answer4": ""<img href=\"image.gif\" alt=\"MyImage\" \/>\"",
+            "answer1": "<img alt=\"MyImage\">image.gif<\/img>",
+            "answer2": "<img src=\"image.gif\" alt=\"MyImage\" \/>",
+            "answer3": "<image src=\"image.gif\" alt=\"MyImage\" \/>",
+            "answer4": "<img href=\"image.gif\" alt=\"MyImage\" \/>",
             "correctAnswer": "B"
         },
         {
