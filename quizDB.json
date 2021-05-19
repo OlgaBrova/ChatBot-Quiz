@@ -217,7 +217,62 @@
             "answer3": "&lt;bo&gt;\n", 
             "answer4": "None of the above",
             "correctAnswer": "B"
+        },
+        {
+            "id": "25",
+            "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+            "answer1": "In the &lt;head&gt; section",
+            "answer2": "In the &lt;body&gt; section",
+            "answer3": "At the end of the document", 
+            "answer4": "None of the above",
+            "correctAnswer": "A"
+        },
+        {
+            "id": "26",
+            "question": "Which HTML tag is used to define an internal style sheet?",
+            "answer1": "&lt;script&gt;",
+            "answer2": "&lt;css&gt;",
+            "answer3": "&lt;style&gt;", 
+            "answer4": "None of the above",
+            "correctAnswer": "C"
+        },
+        {
+            "id": "27",
+            "question": "How do you insert a comment in a CSS file?",
+            "answer1": "//comment//",
+            "answer2": "'comment'",
+            "answer3": "//comment", 
+            "answer4": "/*comment*/",
+            "correctAnswer": "D"
+        },
+        {
+            "id": "28",
+            "question": "Which CSS property is used to change the text color of an element?",
+            "answer1": "color",
+            "answer2": "text-color",
+            "answer3": "font-color", 
+            "answer4": "text-background",
+            "correctAnswer": "A"
+        },
+        {
+            "id": "29",
+            "question": "Which CSS property controls the text size?",
+            "answer1": "text-size",
+            "answer2": "font-size",
+            "answer3": "text-style", 
+            "answer4": "font-style",
+            "correctAnswer": "B"
+        },
+        {
+            "id": "30",
+            "question": "How do you display hyperlinks without an underline?",
+            "answer1": "a {underline: none;}",
+            "answer2": "a {text-decoration: no-underline;}",
+            "answer3": "a {text-decoration: none;}", 
+            "answer4": "a {decoration:  no-underline;}",
+            "correctAnswer": "C"
         }
+    
 
     ]
 }
