@@ -110,7 +110,7 @@
         },
         {
             "id": "13",
-            "question": "How do you add a background color for all <h1> elements?",
+            "question": "How do you add a background color for all &lt;h1&gt; elements?",
             "answer1": "h1 {background-color:#FFFFFF;}",
             "answer2": "h1.all {background-color:#FFFFFF;}",
             "answer3": "all.h1 {background-color:#FFFFFF;}", 
