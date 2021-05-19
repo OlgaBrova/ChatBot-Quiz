@@ -167,7 +167,7 @@
             "question": "In CSS, what is the correct option to select all the tags on a page?",
             "answer1": ".p { }",
             "answer2": "#p { }",
-            "answer3": "<p> { }", 
+            "answer3": "&lt;p&gt; { }", 
             "answer4": "p { }",
             "correctAnswer": "D"
         },
