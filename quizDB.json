@@ -1,5 +1,5 @@
 {
-    "webDevelopment": [
+    "webDevelopmentQuiz": [
         {
             "id": "1",
             "question": "What does HTML stand for?",
@@ -271,6 +271,552 @@
             "answer3": "a {text-decoration: none;}", 
             "answer4": "a {decoration:  no-underline;}",
             "correctAnswer": "C"
+        }
+    ],
+    
+    "webDesignQuiz": [
+        {
+            "id": "1",
+            "question": "Which language is used for creating Web Pages?",
+            "answer1": "PASCAL", 
+            "answer2": "C",       
+            "answer3": "HTML",       
+            "answer4": "BASIC",
+            "correctAnswer": "C"       
+        },
+        {
+            "id": "2",
+            "question": "What is the abbreviation of HTTP?",
+            "answer1": "Hypertext tag path", 
+            "answer2": "Hyper Text Transfer Protocol",       
+            "answer3": "Hypertext transfer path",       
+            "answer4": "None",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "3",
+            "question": "The entire web document is contained within ____",
+            "answer1": "Comments", 
+            "answer2": "Tags",       
+            "answer3": "Web page",       
+            "answer4": "HTML element",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "4",
+            "question": "HTML document should begin with the ____",
+            "answer1": "&lt;head&gt; tag", 
+            "answer2": "&lt;title&gt; tag",       
+            "answer3": "&lt;body&gt; tag",       
+            "answer4": "&lt;html&gt; tag",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "5",
+            "question": "GIF is the abbreviation for ___",
+            "answer1": "Graphics Interchange Format", 
+            "answer2": "Graphics Instruction Format",       
+            "answer3": "Graphics Item Format",       
+            "answer4": "Graphics Information Format",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "6",
+            "question": "The <font> tag is similar to ____",
+            "answer1": "&lt;big&gt;tag", 
+            "answer2": "&lt;small&gt;tag",       
+            "answer3": "&lt;marquee&gt;tag",       
+            "answer4": "&lt;big&gt;and&lt;small&gt;> tags",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "7",
+            "question": "The HTML and HTTP standard are defined by ____",
+            "answer1": "Web client", 
+            "answer2": "Internet association",       
+            "answer3": "WWW consortium",       
+            "answer4": "WWW",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "8",
+            "question": "The tag used to add images to the HTML document is",
+            "answer1": "&lt;font&gt", 
+            "answer2": "&lt;hr&gt",       
+            "answer3": "&lt;hi&gt",       
+            "answer4": "&lt;img&gt",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "9",
+            "question": "The ____ passes the information given by the user to a specified program.",
+            "answer1": "User", 
+            "answer2": "Programmer",       
+            "answer3": "Web server",       
+            "answer4": "Browser",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "10",
+            "question": "____ is used to store the data within the documents on the server.",
+            "answer1": "XML", 
+            "answer2": "HTML",       
+            "answer3": "DHTML",       
+            "answer4": "CGI",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "11",
+            "question": "How many different colours can GIF contain?",
+            "answer1": "64", 
+            "answer2": "156",       
+            "answer3": "256",       
+            "answer4": "264",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "12",
+            "question": "Transferring your HTML code from one machine to server is known as ___",
+            "answer1": "Indexing", 
+            "answer2": "Hosting",       
+            "answer3": "Serving",       
+            "answer4": "Sorting",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "13",
+            "question": "Which tag is used to identify the author’s name of the web document?",
+            "answer1": "Anchor tag", 
+            "answer2": "Meta tag",       
+            "answer3": "Title tag",       
+            "answer4": "Font tag",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "14",
+            "question": "Which attribute can be used to change the colour of the links?",
+            "answer1": "&lt;link&gt", 
+            "answer2": "&lt;alink&gt",       
+            "answer3": "&lt;vlink&gt",       
+            "answer4": "All teh abave",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "15",
+            "question": "Which indicates the beginning of an effect?",
+            "answer1": "Start tag", 
+            "answer2": "End tag",       
+            "answer3": "Tag",       
+            "answer4": "None of the given",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "16",
+            "question": "Which option on the menu can be used to insert rows and columns?",
+            "answer1": "&lt;insert&gt", 
+            "answer2": "&lt;tool&gt",       
+            "answer3": "&lt;table&gt",       
+            "answer4": "&lt;format&gt",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "17",
+            "question": "_____ contains the document itself.",
+            "answer1": "Structure", 
+            "answer2": "Tag",       
+            "answer3": "Head section",       
+            "answer4": "Body section",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "18",
+            "question": "Forms are created by the attributes",
+            "answer1": "Action and Method", 
+            "answer2": "Value and Method",       
+            "answer3": "Method and Target",       
+            "answer4": "Action and Target",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "19",
+            "question": "Software applications used for creating web pages and web sites are called as ___",
+            "answer1": "Web programs", 
+            "answer2": "Web page editors",       
+            "answer3": "Web master",       
+            "answer4": "Web links",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "20",
+            "question": "<HTML> is followed by how many sections?",
+            "answer1": "2", 
+            "answer2": "3",       
+            "answer3": "4",       
+            "answer4": "6",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "21",
+            "question": "The CELLSPACING attribute is used to ___",
+            "answer1": "Specify the colour of the border", 
+            "answer2": "Specify the thickness of the border",       
+            "answer3": "Specify the space between cells",       
+            "answer4": "Specify the space between text and border",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "22",
+            "question": "Interactive documents that can be created using a feature of HTML are called ____",
+            "answer1": "Tables", 
+            "answer2": "Forms",       
+            "answer3": "Files",       
+            "answer4": "Frames",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "23",
+            "question": "_____ are used to allow the user to select one of the options displayed.",
+            "answer1": "Radio buttons", 
+            "answer2": "Text boxes",       
+            "answer3": "Check boxes",       
+            "answer4": "Password controls",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "24",
+            "question": "_____ is used to separate the attributes in the selected segment of a style tag.",
+            "answer1": " :", 
+            "answer2": " ;",       
+            "answer3": " ,",       
+            "answer4": " *",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "25",
+            "question": "RGB value for Red is",
+            "answer1": "FFOOFF", 
+            "answer2": "FFFFFF",       
+            "answer3": "FFOOOO",       
+            "answer4": "FFFFOO",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "26",
+            "question": "What are the two segments of a style tag?",
+            "answer1": "Selector and property", 
+            "answer2": "Name and content",       
+            "answer3": "Head section and body section",       
+            "answer4": "None",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "27",
+            "question": "The attributes that are used with <MARQUEE>tag are ___",
+            "answer1": "size", 
+            "answer2": "bg color",       
+            "answer3": "direction",       
+            "answer4": "bg color and direction",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "28",
+            "question": "CGI stands for ___",
+            "answer1": "Common Gateway Internet", 
+            "answer2": "Common Gateway Interface",       
+            "answer3": "Central Gateway Interface",       
+            "answer4": "Central Gateway Internet",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "29",
+            "question": "HTML allows us to use ___ levels of headings.",
+            "answer1": "Two", 
+            "answer2": "Three",       
+            "answer3": "Five",       
+            "answer4": "Six",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "30",
+            "question": "Which character is used after the opening angular bracket to represent the closing tag?",
+            "answer1": "/", 
+            "answer2": " ",       
+            "answer3": "|",       
+            "answer4": " %",
+            "correctAnswer": "A" 
+        }
+    ],
+
+    "gameDesignQuiz": [
+        {
+            "id": "1",
+            "question": " Jason is playing a game in which players must maneuver around changing barriers and moving objects inside a maze. This is an example of which type of game?",
+            "answer1": "Role playing", 
+            "answer2": "Board",       
+            "answer3": "Skill",       
+            "answer4": "Chance",
+            "correctAnswer": "C"       
+        },
+        {
+            "id": "2",
+            "question": "Which programming element is used by a game program to track and display score information?",
+            "answer1": "Prototypes", 
+            "answer2": "Variables",       
+            "answer3": "Algorithms",       
+            "answer4": "Events",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "3",
+            "question": "Which type of error can be difficult to identify, because the program still runs but does not do what you expect it to do?",
+            "answer1": "Logic error", 
+            "answer2": "program with any type of error cannot still run.",       
+            "answer3": "Runtime error",       
+            "answer4": "Syntax error",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "4",
+            "question": "Which member of the game design team writes the dialog for the characters, and develops the animation and scenarios that occur during game play?",
+            "answer1": "IT specialist", 
+            "answer2": "Programmer",       
+            "answer3": "Game designer",       
+            "answer4": "Sound engineer",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "5",
+            "question": "The actions that you want your game to perform and the goals that you want players to be able to achieve in your game are called the:",
+            "answer1": "criteria", 
+            "answer2": "constraints",       
+            "answer3": "interactivity",       
+            "answer4": "analysis",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "6",
+            "question": " In programming languages, character, string, integer, floating-point and Boolean are all examples of:",
+            "answer1": "variable data types", 
+            "answer2": "methods",       
+            "answer3": "comparison operators",       
+            "answer4": "expressions",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "7",
+            "question": "Which term describes the process used to plan every step of a game's animation?",
+            "answer1": "Brainstorm", 
+            "answer2": "Prototype",       
+            "answer3": "Storyboard",       
+            "answer4": "Project",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "8",
+            "question": "Which member of the game design team writes the step-by-step computer instructions, or code, required to create games?",
+            "answer1": "Game designer", 
+            "answer2": "Programmer",       
+            "answer3": "IT specialist",       
+            "answer4": "Sound engineer",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "9",
+            "question": "Which term describes the first functional example of a game that you are developing?",
+            "answer1": "Storyboard", 
+            "answer2": "Project",       
+            "answer3": "Design",       
+            "answer4": "Prototype",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "10",
+            "question": "Which type of software is most commonly used to create the 3D animations and motion graphics used in games?",
+            "answer1": "Audio recording and editing applications", 
+            "answer2": "Operating systems",       
+            "answer3": "Game design engines",       
+            "answer4": "Graphic design applications",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "11",
+            "question": "Which statement regarding methods is true?",
+            "answer1": "Methods are functions used within an object class.", 
+            "answer2": "Methods can be applied to one instance of an object.",       
+            "answer3": "Methods can operate outside an object.",       
+            "answer4": "Methods are the variables of an object.",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "12",
+            "question": "In order to write a successful algorithm, you must first be able to:",
+            "answer1": "solve the problem manually", 
+            "answer2": "use logic to plan a solution",       
+            "answer3": "create a plan to execute a solution",       
+            "answer4": "code a sequential structure",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "13",
+            "question": "Amy is creating a park scene for her game. She has created a class for tree objects. The park scene will require multiple trees in a variety of sizes, colors and positions. Which programming term describes the characteristics needed (size, color, etc.) for each tree object?",
+            "answer1": "Methods", 
+            "answer2": "Properties",       
+            "answer3": "Arguments",       
+            "answer4": "Parameters",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "14",
+            "question": "Which programming element is used to provide a detailed description of an object's characteristics and specify what can be done with the object?",
+            "answer1": "Instance", 
+            "answer2": "Class",       
+            "answer3": "Method",       
+            "answer4": "Property",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "15",
+            "question": "What is the first step in the game design process?",
+            "answer1": "Create a prototype.", 
+            "answer2": "Gather feedback.",       
+            "answer3": "Brainstorm ideas.",       
+            "answer4": "Create a storyboard.",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "16",
+            "question": "Which type of operators includes the && (AND), || (OR) and ! (NOT) symbols?",
+            "answer1": "Logical (Boolean) operators", 
+            "answer2": "Comparison operators",       
+            "answer3": "Assignment operators",       
+            "answer4": "Arithmetic operators",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "17",
+            "question": "Which statement correctly defines &quotIteration&quot?",
+            "answer1": "A group of commands that perform an action", 
+            "answer2": "A named unit of code",       
+            "answer3": "A repetition of a process",       
+            "answer4": "A decision about how to proceed",
+            "correctAnswer": "c" 
+        },
+        {
+            "id": "18",
+            "question": "Which term describes a graphical diagram of the steps or decision process contained in an algorithm?",
+            "answer1": "Flow chart", 
+            "answer2": "Template",       
+            "answer3": "Storyboard",       
+            "answer4": "Pseudo-code",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "19",
+            "question": "Jenna has created a wizard class. She has used the class to build two wizard objects in her game. Which programming term describes the objects that Jenna built using the wizard class?",
+            "answer1": "Subclasses", 
+            "answer2": "Methods",       
+            "answer3": "Occurrences",       
+            "answer4": "Instances",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "20",
+            "question": "According to the mathematical order of precedence used in programming, which portion of an expression should be evaluated first?",
+            "answer1": "Exponentiation", 
+            "answer2": "Parentheses",       
+            "answer3": "Addition / subtraction",       
+            "answer4": "Multiplication / division",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "21",
+            "question": "Tabitha is assigning initial values to each variable in her program. Which term describes the process of assigning an initial value to a variable?",
+            "answer1": "Storing", 
+            "answer2": "Valuing",       
+            "answer3": "Declaring",       
+            "answer4": "Initializing",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "22",
+            "question": "Which programing structure term describes the value that is passed to a method when called so that the method knows what to do?",
+            "answer1": "An argument", 
+            "answer2": "Subclasses",       
+            "answer3": "A function",       
+            "answer4": "Method",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "23",
+            "question": "Stefan has created a zombie class for his game. He would like the zombie objects to be able to speak, run, appear and disappear. Which programing term describes the actions that Stefan wants his zombie objects to be able to perform?",
+            "answer1": "Methods", 
+            "answer2": "Instances",       
+            "answer3": "Properties",       
+            "answer4": "Subclasses",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "24",
+            "question": "Which programming term describes the variable that holds the data (value) needed by the method?",
+            "answer1": "A parameter", 
+            "answer2": "Instances",       
+            "answer3": "A argument",       
+            "answer4": "Algorithm",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "25",
+            "question": "Which of the following is an example of a selection structure?",
+            "answer1": "While", 
+            "answer2": "do/while",       
+            "answer3": "for",       
+            "answer4": "if/else",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "26",
+            "question": "Which term describes the issues that limit your ability to meet your goals, such as lack of tools or time?",
+            "answer1": "Feedback", 
+            "answer2": "Constraints",       
+            "answer3": "Requirements",       
+            "answer4": "Criteria",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "27",
+            "question": "When creating an animated sprite, which coordinate(s) will indicate the sprite's current position on the stage?",
+            "answer1": "Z coordinate", 
+            "answer2": "Y coordinate",       
+            "answer3": "X and Y coordinates",       
+            "answer4": "X coordinate",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "28",
+            "question": "Which variable data type is used to store a number that contains a decimal?",
+            "answer1": "Integer", 
+            "answer2": "String",       
+            "answer3": "Floating point",       
+            "answer4": "Boolean",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "29",
+            "question": "You are designing a game to be played on iPods, iPads and iPhones. Which computer platform is the best to use when creating this game?",
+            "answer1": "Any smartphone", 
+            "answer2": "Windows",       
+            "answer3": "Linux",       
+            "answer4": "Apple",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "30",
+            "question": "Marissa would like to learn more about game design. Her teacher explains that the first step is to learn how the audience, elements and characters in a game work together. What is the best method for completing this first step?",
+            "answer1": "Develop a game with multiple elements and characters.", 
+            "answer2": "Ask your friends for feedback about your game ideas.",       
+            "answer3": "Analyze existing games by deconstructing them.",       
+            "answer4": "Make a list of the characters in other games you have played",
+            "correctAnswer": "C" 
         }
     ]
 }
