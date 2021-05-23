@@ -273,7 +273,281 @@
             "correctAnswer": "C"
         }
     ],
-    
+
+    "graphicDesignQuiz": [
+        {
+            "id": "1",
+            "question": "The placement of graphics and text on a graphic design is known as:",
+            "answer1": "Organization", 
+            "answer2": "Art set-up",       
+            "answer3": "Composition",       
+            "answer4": "Graphic clean-up",
+            "correctAnswer": "C"       
+        },
+        {
+            "id": "2",
+            "question": "The Bauhaus taught us that the holy trinity of colors for graphic design are:",
+            "answer1": "Red, green, and blue.", 
+            "answer2": "Red, black, and white.",       
+            "answer3": "Cyan, magenta, and yellow.",       
+            "answer4": "Red, blue, and yellow.",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "3",
+            "question": "Which of the following is not true about package designs?",
+            "answer1": "All package designs are designed flat and later folded in 3D.", 
+            "answer2": "Graphic designers always consider the inherent symbolism of color when designing a package.",       
+            "answer3": "Package designers always consider the 3 second rule.",       
+            "answer4": "Convenience and recognition are key considerations.",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "4",
+            "question": "What is the single most powerful tool of tradigital design?",
+            "answer1": "Layers", 
+            "answer2": "CMYK",       
+            "answer3": "PhotoShop",       
+            "answer4": "Illustrators",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "5",
+            "question": "Which of the following is not included in a style sheet?",
+            "answer1": "Type face (font)", 
+            "answer2": "CMYK colors",       
+            "answer3": "RGB colors",       
+            "answer4": "None of the above",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "6",
+            "question": "A color of a triadic color scheme with red-violet in it is",
+            "answer1": "Orange", 
+            "answer2": "Green",       
+            "answer3": "Blue-green",       
+            "answer4": "Red-orange",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "7",
+            "question": "A triadic partner for yellow is",
+            "answer1": "Green", 
+            "answer2": "Violet",       
+            "answer3": "Blue",       
+            "answer4": "Magenta",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "8",
+            "question": "When a design calls for a spiraling text, this application would facilitate the job.",
+            "answer1": "PhotoShop", 
+            "answer2": "Bridge",       
+            "answer3": "Flash",       
+            "answer4": "Illustrator",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "9",
+            "question": "The following is not an element of design:",
+            "answer1": "Line", 
+            "answer2": "Shape",       
+            "answer3": "Texture",       
+            "answer4": "Unity",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "10",
+            "question": "Reappropriation is the graphic design term for which of these practices?",
+            "answer1": "Using images from the web", 
+            "answer2": "Using stock photography for a reputable photographic clearing house",       
+            "answer3": "Altering the image with your own style",       
+            "answer4": "Repurposing an image to the point it is no longer similar or true to the original intent or context.",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "11",
+            "question": "RGB is to ppi as CMYK is to _________.",
+            "answer1": "Pixels per inch", 
+            "answer2": "Dots per inch",       
+            "answer3": "Screen resolution",       
+            "answer4": "Lpi",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "12",
+            "question": "Vector based graphic work is _____.",
+            "answer1": "Limited by large file sizes.", 
+            "answer2": "Scalable.",       
+            "answer3": "Used by most digital photographers.",       
+            "answer4": "Only used in Flash and PhotoShop.",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "13",
+            "question": "A graphic image with a central figure is an example of this type of composition:",
+            "answer1": "Balanced", 
+            "answer2": "Framing",       
+            "answer3": "Asymmetrical",       
+            "answer4": "Simplicity",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "14",
+            "question": "Which is the correct way to change the eraser size in Illustrator?",
+            "answer1": "Double click on eraser and change slider", 
+            "answer2": "Change point size in toolbar",       
+            "answer3": "Change the line scale",       
+            "answer4": "Change fill color to clear",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "15",
+            "question": "Which file format will give you the best resolution with a clear background on the web?",
+            "answer1": ".psd", 
+            "answer2": ".png",       
+            "answer3": ".gif",       
+            "answer4": ".jpg",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "16",
+            "question": "Photographic based work produced for the web would be best designed using this application.",
+            "answer1": "PhotoShop", 
+            "answer2": "Flash",       
+            "answer3": "Illustrator",       
+            "answer4": "Design Central",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "17",
+            "question": "Which is not a primary requirement for stamp designing?",
+            "answer1": "Color", 
+            "answer2": "Denomination",       
+            "answer3": "Scale",       
+            "answer4": "Graphic design",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "18",
+            "question": " ",
+            "answer1": "", 
+            "answer2": "",       
+            "answer3": "",       
+            "answer4": "",
+            "correctAnswer": "" 
+        },
+        {
+            "id": "19",
+            "question": "The guidelines in Illustrator produces are",
+            "answer1": "Blue", 
+            "answer2": "Located in the arrow tool",       
+            "answer3": "Layer style",       
+            "answer4": "All of the above",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "20",
+            "question": "The PC keyboard command for turning on the ruler in PhotoShop is",
+            "answer1": "Option R", 
+            "answer2": "Command r",       
+            "answer3": "Shift R",       
+            "answer4": "Control r",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "21",
+            "question": "The complement of blue is __________.",
+            "answer1": "Red", 
+            "answer2": "Yellow",       
+            "answer3": "Orange",       
+            "answer4": "Yellow-orange",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "22",
+            "question": "One of the golden rules of graphic design is to keep the design asymmetrically balanced.  To do so, this is one of the best rules to help organize the design:",
+            "answer1": "Rule of opposition.", 
+            "answer2": "Rules of odds.",       
+            "answer3": "Rule of proximity.",       
+            "answer4": "Rule of selective focus.",
+            "correctAnswer": "B" 
+        },
+        {
+            "id": "23",
+            "question": "The split complement of  blue-violet is ",
+            "answer1": "Yellow", 
+            "answer2": "Red-orange",       
+            "answer3": "Blue",       
+            "answer4": "Violet",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "24",
+            "question": "This is the first color that the human eye reacts to when it comes into vision.",
+            "answer1": "Red", 
+            "answer2": "Green",       
+            "answer3": "Blue",       
+            "answer4": "White",
+            "correctAnswer": "A" 
+        },
+        {
+            "id": "25",
+            "question": "How is a color scheme different from color selection?",
+            "answer1": "Selections are based on your personal favorite colors.", 
+            "answer2": "Schemes are pairings of colors that work well together.",       
+            "answer3": "Both are correct",       
+            "answer4": "First two are both false.",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "26",
+            "question": "The only time it is alright to pull a graphic from google is _______.",
+            "answer1": "When the client says it is okay.", 
+            "answer2": "When you are doing a thumb nail for a design.",       
+            "answer3": "Whenever you need it.",       
+            "answer4": "Never",
+            "correctAnswer": "D" 
+        },
+        {
+            "id": "27",
+            "question": "The major difference between graphic designers and graphic artists is:",
+            "answer1": "Graphic designers have ultimate creative control.", 
+            "answer2": "Graphic artists create to serve the greater public.",       
+            "answer3": "Graphic designers are advertisers.",       
+            "answer4": "Graphic designers follow all client recommendations.",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "28",
+            "question": "What is the primary function of a critique of your design?",
+            "answer1": "To point out the flaws in the design.", 
+            "answer2": "To make the designer feel good about the design.",       
+            "answer3": "To improve the overall design.",       
+            "answer4": "To improve the designer.",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "29",
+            "question": "Where is the live paint bucket on the tool bar?",
+            "answer1": "Next to the black arrow.", 
+            "answer2": "Under the gradient tool",       
+            "answer3": "Under the Shape builder tool",       
+            "answer4": "On the layers tab",
+            "correctAnswer": "C" 
+        },
+        {
+            "id": "30",
+            "question": "The design school that used primary colors and simple shapes as part of its aesthetics and is favored by Michael Beirut is the ____________ school.",
+            "answer1": "De Stil", 
+            "answer2": "Bauhaus",       
+            "answer3": "Dada",       
+            "answer4": "New Realism",
+            "correctAnswer": "A" 
+        }
+    ],
+
+
     "webDesignQuiz": [
         {
             "id": "1",
@@ -546,6 +820,7 @@
             "correctAnswer": "A" 
         }
     ],
+
 
     "gameDesignQuiz": [
         {
