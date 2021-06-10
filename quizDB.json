@@ -722,7 +722,7 @@
         },
         {
             "id": "20",
-            "question": "<HTML> is followed by how many sections?",
+            "question": "&lt;HTML&gt is followed by how many sections?",
             "answer1": "2", 
             "answer2": "3",       
             "answer3": "4",       
@@ -785,7 +785,7 @@
         },
         {
             "id": "27",
-            "question": "The attributes that are used with <MARQUEE>tag are ___",
+            "question": "The attributes that are used with &lt;MARQUEE&gt tag are ___",
             "answer1": "size", 
             "answer2": "bg color",       
             "answer3": "direction",       
